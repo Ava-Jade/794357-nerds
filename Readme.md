@@ -1,6 +1,6 @@
 # Личный проект «Нёрдс»
 
-* Студент: [Jade Green](https://up.htmlacademy.ru/htmlcss/22/user/794357).
+* Студент: [Айше Ашихумерова](https://up.htmlacademy.ru/htmlcss/22/user/794357).
 * Наставник: Вадим Акулин.
 
 ---
